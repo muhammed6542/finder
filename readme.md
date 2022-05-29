@@ -1,0 +1,2 @@
+-Run the FinderTests class
+-Algorithm is in finder.class
